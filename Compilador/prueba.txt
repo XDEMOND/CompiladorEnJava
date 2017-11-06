@@ -1,0 +1,8 @@
+amargorp
+	Niam{
+	tni numero1;
+	tni numero2;
+	etirw("Escribe valor 1: ");
+	daer>>numero1;
+	}
+	
